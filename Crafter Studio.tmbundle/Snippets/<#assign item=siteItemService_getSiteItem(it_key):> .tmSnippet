@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;#assign item=siteItemService.getSiteItem(${1})/&gt; </string>
+	<key>name</key>
+	<string>Get Site Item</string>
+	<key>scope</key>
+	<string>text.html.ftl</string>
+	<key>tabTrigger</key>
+	<string>gsi</string>
+	<key>uuid</key>
+	<string>EB528198-0E3D-4976-B393-3DF0FFACC816</string>
+</dict>
+</plist>

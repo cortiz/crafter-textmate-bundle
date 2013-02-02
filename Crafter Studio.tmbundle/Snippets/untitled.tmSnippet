@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;#assign ${1} = urlTransformationService.transform('storeUrlToRenderUrl', ${2})/&gt;</string>
+	<key>name</key>
+	<string>Store Url to Render Url</string>
+	<key>scope</key>
+	<string>text.html.ftl</string>
+	<key>tabTrigger</key>
+	<string>rsu</string>
+	<key>uuid</key>
+	<string>04DBB6AF-4FEC-437C-AFB2-1A5FB6F1C334</string>
+</dict>
+</plist>

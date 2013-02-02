@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contactEmailRot13</key>
+	<string>pbegvm@evirgybtvp.pbz</string>
+	<key>contactName</key>
+	<string>Carlos Ortiz</string>
+	<key>description</key>
+	<string>Freemarker-Crafter Studio bundle</string>
+	<key>mainMenu</key>
+	<dict>
+		<key>items</key>
+		<array>
+			<string>33D1F666-EC6B-4C5F-8D9B-96362A3370DD</string>
+			<string>573567BE-BB19-45BA-B973-3B5CFD7CEC04</string>
+			<string>E253FA98-063B-441E-B7AF-EF8F14DC9B23</string>
+			<string>473242FA-6D5F-497C-B524-233FDC028458</string>
+			<string>B5EF4EFE-54CD-40E2-A1D6-E10B510711A2</string>
+			<string>9FAB5FEC-F609-4DDF-B643-1753DC07426A</string>
+			<string>AF77B3D4-1CBF-4214-B2C1-E05C6A8C3C5F</string>
+			<string>C9C85F9D-0A10-465E-A49D-1A037174B262</string>
+			
+		</array>
+		<key>submenus</key>
+		<dict>
+			
+			<key>C9C85F9D-0A10-465E-A49D-1A037174B262</key>
+			<dict>
+				<key>name</key>
+				<string>Crafter Engine</string>
+				<key>items</key>
+				<array>
+					<string>C94B6BDD-5FDC-4AFD-9EF7-26CC501436F8</string>
+					<string>E0FCB91D-1489-4221-835C-76EA288364A3</string>
+					<string>CE6F76CC-9D47-46FF-9C8A-EF41DCF69F90</string>
+					<string>----------------------------------------</string>
+					<string>96E7B1F3-5EA5-4C9D-AA24-30043846705E</string>
+					<string>12D6383C-383E-4095-81AC-D5814E6E5904</string>
+					<string>C4434EFA-07A6-4172-B0AC-95B4221CF8CA</string>
+					<string>E3640281-ADD4-43D2-A28E-7988B764EF89</string>
+					<string>11A72FAF-37AA-4348-BAC3-E97AA84960F4</string>
+					<string>40CA7C7F-DFE3-41FD-8265-01D7690CAD0A</string>
+					<string>04DBB6AF-4FEC-437C-AFB2-1A5FB6F1C334</string>
+					<string>EB528198-0E3D-4976-B393-3DF0FFACC816</string>
+				</array>
+				
+			</dict>
+			
+			<key>B5EF4EFE-54CD-40E2-A1D6-E10B510711A2</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>2465C470-CF4D-4F0F-886B-A063492116A4</string>
+					<string>09609523-C227-4DD7-BB36-ED96D7CC893F</string>
+					<string>4DD33B62-A068-4B38-997E-0A0C2FEFD94D</string>
+					<string>3A4FFD18-B340-44A5-B7AE-9373C32AC6EA</string>
+					<string>370107CB-5BB2-489D-9FA9-65FD1B074F8A</string>
+					<string>------------------------------------</string>
+					<string>F18E9852-240C-4613-B34E-616E387DAA60</string>
+					<string>------------------------------------</string>
+					<string>9303F55F-E5BD-4B02-9214-F4F9657C7336</string>
+					<string>F9B9BA97-483F-4E3E-91EF-41D3A8C055B3</string>
+				</array>
+				<key>name</key>
+				<string>Directives</string>
+			</dict>
+		</dict>
+	</dict>
+	<key>name</key>
+	<string>Crafter Studio</string>
+	<key>uuid</key>
+	<string>EF5599BA-C70C-4E24-99A2-30B046E5640C</string>
+</dict>
+</plist>

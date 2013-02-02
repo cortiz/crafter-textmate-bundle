@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;#list model.${1}.item as ${2}&gt;
+      &lt;@renderComponent component = ${2} /&gt;
+&lt;/#list&gt;
+</string>
+	<key>name</key>
+	<string>Render component List</string>
+	<key>scope</key>
+	<string>text.html.ftl</string>
+	<key>tabTrigger</key>
+	<string>rcl</string>
+	<key>uuid</key>
+	<string>E3640281-ADD4-43D2-A28E-7988B764EF89</string>
+</dict>
+</plist>

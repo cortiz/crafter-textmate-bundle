@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;@ice id="${1}"&gt;\${model.${1}}&lt;/@ice&gt;</string>
+	<key>name</key>
+	<string>ICE</string>
+	<key>tabTrigger</key>
+	<string>ice</string>
+	<key>uuid</key>
+	<string>12D6383C-383E-4095-81AC-D5814E6E5904</string>
+</dict>
+</plist>
